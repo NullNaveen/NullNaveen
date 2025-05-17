@@ -1,7 +1,7 @@
 # Hi there, I'm Naveen! 👋
 
 Welcome to my GitHub profile!  
-*I'm a passionate and curious programmer, currently *building exciting projects using *Python, **HTML, and **GitHub* — while also exploring SQL and R.
+I'm a passionate and curious programmer, currently building exciting projects using Python, HTML, and GitHub—while also exploring SQL and R.
 
 I'm on a journey to explore the world of tech, and I’m excited to share what I learn along the way!
 

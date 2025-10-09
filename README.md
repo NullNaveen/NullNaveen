@@ -10,7 +10,9 @@
 
 ### 👨‍💻 About Me
 I'm a passionate developer who loves exploring **AI**, **Machine Learning**, and **Data Science**.  
-I enjoy integrating AIs and APIs into real-world applications and constantly seek to learn new technologies that push my skills forward.  
+I enjoy integrating AIs into real-world applications and constantly seek to learn new technologies that push my skills forward.  
+And I really, really love to experimenting new things, learning new tools, and turning ideas into meaningful, working systems.  
+Always open to collaboration, discussions, and opportunities to learn and grow together in the tech space.  
 
 💡 *I believe in learning by building — every project teaches something new.*
 
@@ -18,9 +20,10 @@ I enjoy integrating AIs and APIs into real-world applications and constantly see
 
 ### 🎯 Current Focus
 - Building **AI-powered** and **data-driven** applications  
-- Exploring **LLMs**, **automation**, and **intelligent system design**  
-- Strengthening my hands-on skills in **Python**, **API integration**, and **cloud-based solutions**  
-- Collaborating and learning with like-minded tech enthusiasts  
+- Exploring **Machine Learning**, **AI automation**, and **intelligent system design**  
+- Implementing **model deployment**, **API integration**, and **end-to-end project workflows**  
+- Working with **LLMs**, **AI integrations**, and **automation pipelines**  
+- Continuously improving problem-solving and real-world implementation skills
 
 ---
 

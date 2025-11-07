@@ -12,11 +12,11 @@
 I'm a Machine Learning Engineer passionate about designing and deploying intelligent systems at scale.  
 With 3+ years of experience in **finance analytics** and **applied machine learning**, I specialize in:
 
-- 🎯 **Building production ML systems** with RAG, LLM integration, and semantic search
-- ⚡ **End-to-end ML pipelines** from data ingestion to model deployment
-- 🔧 **Backend optimization** using Flask, FastAPI, and scalable architectures
-- 🤖 **AI automation** - integrating machine learning into real-world workflows
-- 📊 **Predictive modeling** - time series forecasting, classification, and optimization
+-  **Building production ML systems** with RAG, LLM integration, and semantic search
+-  **End-to-end ML pipelines** from data ingestion to model deployment
+-  **Backend optimization** using Flask, FastAPI, and scalable architectures
+-  **AI automation** - integrating machine learning into real-world workflows
+-  **Predictive modeling** - time series forecasting, classification, and optimization
 
 I believe in writing **clean, maintainable code** and building systems that **actually work in production**.  
 Currently exploring **local LLM deployments**, **advanced retrieval systems**, and **intelligent automation pipelines**.
@@ -26,12 +26,12 @@ Currently exploring **local LLM deployments**, **advanced retrieval systems**, a
 ---
 
 ### 🎯 Current Focus
-- 🏗️ **Production ML Systems** - RAG, semantic search, and intelligent retrieval
-- 🦾 **LLM Integration** - local & cloud-based LLM deployment and fine-tuning
-- 📡 **API Architecture** - designing scalable backend systems with FastAPI & Flask
-- 🚀 **Model Deployment** - end-to-end ML pipelines with fallback mechanisms
-- 💾 **Data Engineering** - ETL pipelines, data quality, and efficient indexing (FAISS, Elasticsearch)
-- ⚙️ **MLOps & Automation** - workflow optimization, batch processing, and intelligent automation
+-  **Production ML Systems** - RAG, semantic search, and intelligent retrieval
+-  **LLM Integration** - local & cloud-based LLM deployment and fine-tuning
+-  **API Architecture** - designing scalable backend systems with FastAPI & Flask
+-  **Model Deployment** - end-to-end ML pipelines with fallback mechanisms
+-  **Data Engineering** - ETL pipelines, data quality, and efficient indexing (FAISS, Elasticsearch)
+-  **MLOps & Automation** - workflow optimization, batch processing, and intelligent automation
 
 ---
 
@@ -56,11 +56,11 @@ Currently exploring **local LLM deployments**, **advanced retrieval systems**, a
 
 ### 📚 Learning Path
 Currently deepening expertise in:  
-- 🤖 **Large Language Models** - fine-tuning, LoRA, prompt engineering, RAG systems
-- 🔍 **Semantic Search & Retrieval** - FAISS, vector databases, embedding optimization
-- 🚀 **Model Optimization** - quantization, distillation, inference optimization for edge
-- ☁️ **MLOps & Deployment** - containerization, model versioning, monitoring & logging
-- 📊 **Advanced Analytics** - causal inference, feature engineering, A/B testing frameworks
+-  **Large Language Models** - fine-tuning, LoRA, prompt engineering, RAG systems
+-  **Semantic Search & Retrieval** - FAISS, vector databases, embedding optimization
+-  **Model Optimization** - quantization, distillation, inference optimization for edge
+-  **MLOps & Deployment** - containerization, model versioning, monitoring & logging
+-  **Advanced Analytics** - causal inference, feature engineering, A/B testing frameworks
 
 ---
 

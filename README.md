@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm <a href="#">Naveen Kumar</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="#">Naveen</a> 👋</h1>
 <h3 align="center">🤖 AI & Data Engineer — I love to play with AI and Data</h3>
 
 <p align="center">
